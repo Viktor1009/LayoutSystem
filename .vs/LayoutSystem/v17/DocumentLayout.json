@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Gymnasiet\\Programering\\LayoutSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|c:\\gymnasiet\\programering\\layoutsystem\\layoutsystem\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|solutionrelative:layoutsystem\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|C:\\Gymnasiet\\Programering\\LayoutSystem\\layoutsystem\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|solutionrelative:layoutsystem\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|c:\\gymnasiet\\programering\\layoutsystem\\layoutsystem\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|solutionrelative:layoutsystem\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +30,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Gymnasiet\\Programering\\LayoutSystem\\LayoutSystem\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "LayoutSystem\\MainPage.xaml.cs",
               "ToolTip": "C:\\Gymnasiet\\Programering\\LayoutSystem\\LayoutSystem\\MainPage.xaml.cs",
               "RelativeToolTip": "LayoutSystem\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T06:47:55.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Gymnasiet\\Programering\\LayoutSystem\\LayoutSystem\\MainPage.xaml",
               "RelativeDocumentMoniker": "LayoutSystem\\MainPage.xaml",
               "ToolTip": "C:\\Gymnasiet\\Programering\\LayoutSystem\\LayoutSystem\\MainPage.xaml*",
               "RelativeToolTip": "LayoutSystem\\MainPage.xaml*",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAABdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-17T06:47:44.209Z"
+              "WhenOpened": "2024-05-17T06:47:44.209Z",
+              "EditorCaption": ""
             }
           ]
         }

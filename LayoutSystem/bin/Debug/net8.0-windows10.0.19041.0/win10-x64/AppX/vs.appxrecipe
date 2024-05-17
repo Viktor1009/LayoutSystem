@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-05-17T07:50:20.188</Modified>
+      <Modified>2024-05-17T08:41:44.738</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-05-17T07:50:20.039</Modified>
+      <Modified>2024-05-17T08:41:44.610</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LayoutSystem.runtimeconfig.json">
       <PackagePath>LayoutSystem.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LayoutSystem.dll">
       <PackagePath>LayoutSystem.dll</PackagePath>
-      <Modified>2024-05-17T07:50:19.180</Modified>
+      <Modified>2024-05-17T08:41:44.431</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>LayoutSystem.exe</PackagePath>
-      <Modified>2024-05-17T07:50:19.196</Modified>
+      <Modified>2024-05-17T08:41:44.434</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
