@@ -1,7 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Gymnasiet\\Programering\\LayoutSystem\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\coding\\groupProjects\\LayoutSystemMedVoL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|c:\\coding\\groupprojects\\layoutsystemmedvol\\layoutsystem\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|solutionrelative:layoutsystem\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|c:\\coding\\groupprojects\\layoutsystemmedvol\\layoutsystem\\stacklayout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|solutionrelative:layoutsystem\\stacklayout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|c:\\coding\\groupprojects\\layoutsystemmedvol\\layoutsystem\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|solutionrelative:layoutsystem\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|c:\\coding\\groupprojects\\layoutsystemmedvol\\layoutsystem\\stacklayout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|solutionrelative:layoutsystem\\stacklayout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|c:\\coding\\groupprojects\\layoutsystemmedvol\\layoutsystem\\layoutsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|solutionrelative:layoutsystem\\layoutsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +30,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LayoutSystem",
+              "DocumentMoniker": "C:\\coding\\groupProjects\\LayoutSystemMedVoL\\LayoutSystem\\LayoutSystem.csproj",
+              "RelativeDocumentMoniker": "LayoutSystem\\LayoutSystem.csproj",
+              "ToolTip": "C:\\coding\\groupProjects\\LayoutSystemMedVoL\\LayoutSystem\\LayoutSystem.csproj",
+              "RelativeToolTip": "LayoutSystem\\LayoutSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T23:43:24.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\coding\\groupProjects\\LayoutSystemMedVoL\\LayoutSystem\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "LayoutSystem\\MainPage.xaml.cs",
+              "ToolTip": "C:\\coding\\groupProjects\\LayoutSystemMedVoL\\LayoutSystem\\MainPage.xaml.cs",
+              "RelativeToolTip": "LayoutSystem\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAArwBQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:57:44.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StackLayout.xaml",
+              "DocumentMoniker": "C:\\coding\\groupProjects\\LayoutSystemMedVoL\\LayoutSystem\\StackLayout.xaml",
+              "RelativeDocumentMoniker": "LayoutSystem\\StackLayout.xaml",
+              "ToolTip": "C:\\coding\\groupProjects\\LayoutSystemMedVoL\\LayoutSystem\\StackLayout.xaml",
+              "RelativeToolTip": "LayoutSystem\\StackLayout.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T19:41:06.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StackLayout.xaml.cs",
+              "DocumentMoniker": "C:\\coding\\groupProjects\\LayoutSystemMedVoL\\LayoutSystem\\StackLayout.xaml.cs",
+              "RelativeDocumentMoniker": "LayoutSystem\\StackLayout.xaml.cs",
+              "ToolTip": "C:\\coding\\groupProjects\\LayoutSystemMedVoL\\LayoutSystem\\StackLayout.xaml.cs",
+              "RelativeToolTip": "LayoutSystem\\StackLayout.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:41:20.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\coding\\groupProjects\\LayoutSystemMedVoL\\LayoutSystem\\MainPage.xaml",
+              "RelativeDocumentMoniker": "LayoutSystem\\MainPage.xaml",
+              "ToolTip": "C:\\coding\\groupProjects\\LayoutSystemMedVoL\\LayoutSystem\\MainPage.xaml",
+              "RelativeToolTip": "LayoutSystem\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T19:17:44.142Z",
+              "EditorCaption": ""
             }
           ]
         }
