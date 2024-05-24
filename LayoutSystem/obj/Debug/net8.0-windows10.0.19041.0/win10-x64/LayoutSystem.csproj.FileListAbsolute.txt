@@ -215,7 +215,6 @@ C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\bin\Debug\net8.0-windows10.0
 C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
 C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
 C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
-C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
 C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
 C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
 C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
@@ -354,3 +353,4 @@ C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\obj\Debug\net8.0-windows10.0
 C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll

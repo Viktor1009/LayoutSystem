@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Gymnasiet\\Programering\\LayoutSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|C:\\Gymnasiet\\Programering\\LayoutSystem\\layoutsystem\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|c:\\gymnasiet\\programering\\layoutsystem\\layoutsystem\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|solutionrelative:layoutsystem\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|c:\\gymnasiet\\programering\\layoutsystem\\layoutsystem\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|solutionrelative:layoutsystem\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|c:\\gymnasiet\\programering\\layoutsystem\\layoutsystem\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|solutionrelative:layoutsystem\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AD1A753-B700-493E-9F0D-43475C803D20}|LayoutSystem\\LayoutSystem.csproj|c:\\gymnasiet\\programering\\layoutsystem\\layoutsystem\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -31,6 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Gymnasiet\\Programering\\LayoutSystem\\LayoutSystem\\AppShell.xaml",
+              "RelativeDocumentMoniker": "LayoutSystem\\AppShell.xaml",
+              "ToolTip": "C:\\Gymnasiet\\Programering\\LayoutSystem\\LayoutSystem\\AppShell.xaml",
+              "RelativeToolTip": "LayoutSystem\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T06:16:51.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Gymnasiet\\Programering\\LayoutSystem\\LayoutSystem\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "LayoutSystem\\MauiProgram.cs",
+              "ToolTip": "C:\\Gymnasiet\\Programering\\LayoutSystem\\LayoutSystem\\MauiProgram.cs",
+              "RelativeToolTip": "LayoutSystem\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:16:45.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Gymnasiet\\Programering\\LayoutSystem\\LayoutSystem\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "LayoutSystem\\MainPage.xaml.cs",
@@ -47,9 +85,9 @@
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Gymnasiet\\Programering\\LayoutSystem\\LayoutSystem\\MainPage.xaml",
               "RelativeDocumentMoniker": "LayoutSystem\\MainPage.xaml",
-              "ToolTip": "C:\\Gymnasiet\\Programering\\LayoutSystem\\LayoutSystem\\MainPage.xaml",
-              "RelativeToolTip": "LayoutSystem\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "ToolTip": "C:\\Gymnasiet\\Programering\\LayoutSystem\\LayoutSystem\\MainPage.xaml*",
+              "RelativeToolTip": "LayoutSystem\\MainPage.xaml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-17T06:47:44.209Z",
               "EditorCaption": ""

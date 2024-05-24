@@ -3,10 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LayoutSystem.MainPage">
 
-    <FlexLayout Direction="Column">
+    <FlexLayout Direction="Column" BackgroundColor="Blue">
         <Label BackgroundColor="DarkGoldenrod" Text="This is a Flexlayout" HorizontalTextAlignment="Center" FontSize="25"/>
-        <FlexLayout Direction="ColumnReverse" FlexLayout.Grow="1">
-            <Label BackgroundColor="DarkCyan" Text="This should be at the bottom of the page" HorizontalTextAlignment="Center" />
+        <VerticalStackLayout FlexLayout.Basis="200">
+            <FlexLayout BackgroundColor="Lavender" Direction="Row" FlexLayout.Grow="1">
+                <Label Text="This is at the side of the page"/>
+            </FlexLayout>
+        </VerticalStackLayout>
+        <FlexLayout Direction="Column">
+            <Label BackgroundColor="BurlyWood" Text="This should be in the middle of the screen" HorizontalTextAlignment="Center" FontSize="25"/>
         </FlexLayout>
     </FlexLayout>
 </ContentPage>
