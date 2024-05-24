@@ -1,1 +1,1 @@
-C:\Gymnasiet\Programering\LayoutSystem\LayoutSystem\LayoutSystem.csproj;x64
+C:\Users\leo.millvik\Source\Repos\LayoutSystem\LayoutSystem\LayoutSystem.csproj;x64
